@@ -1,13 +1,14 @@
 {
   "store.custom#segundapagina": {
     "blocks": [
+      "modal-trigger#first",
+      "tab-layout#home",
       "responsive-layout.desktop#desktop",
       "responsive-layout.mobile#mobile",
       "flex-layout.row",
       "slider-layout#home",
       // "tab-layout"
-      "tab-layout#home",
-      "modal-trigger#first"
+      "list-context.product-list"
     ]
   },
   "flex-layout.row": {
