@@ -8,7 +8,8 @@
       "flex-layout.row",
       "slider-layout#home",
       // "tab-layout"
-      "list-context.product-list"
+      "list-context.product-list",
+      "stack-layout#cta"
     ]
   },
   "flex-layout.row": {
