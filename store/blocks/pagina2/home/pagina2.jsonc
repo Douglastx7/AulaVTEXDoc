@@ -6,7 +6,8 @@
       "flex-layout.row",
       "slider-layout#home",
       // "tab-layout"
-      "tab-layout#home"
+      "tab-layout#home",
+      "modal-trigger#first"
     ]
   },
   "flex-layout.row": {
