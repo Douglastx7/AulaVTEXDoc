@@ -1,5 +1,8 @@
 {
     "store.custom#segundapagina": {
       "path": "/segundapagina"
+    },
+    "store.custom#terceirapagina": {
+      "path": "/terceirapagina"
     }
 }
