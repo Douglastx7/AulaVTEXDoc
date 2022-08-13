@@ -4,5 +4,8 @@
     },
     "store.custom#terceirapagina": {
       "path": "/terceirapagina"
+    },
+    "store.custom#quartapagina": {
+      "path":"/quartapagina"
     }
 }
