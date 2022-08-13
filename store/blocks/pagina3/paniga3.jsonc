@@ -1,6 +1,7 @@
 {
     "store.custom#terceirapagina": {
         "blocks": [
+            "rich-text",
             "info-card#clearance",
             "info-card#vintage"
         ]
